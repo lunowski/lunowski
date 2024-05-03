@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunowski
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html,css and Javascript
 - 💞️ I’m looking to collaborate on proyects to learn 
 - 📫 How to reach me 
 - 😄 Pronouns: day dreamer
